@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#F8F6F3",
+  "secondaryColor": "#A8B8A8",
+  "backgroundColor": "#F8F6F3",
+  "textColor": "#2C2C2C",
+  "accentColor": "#1B6B6B",
+  "fontHeading": "Crimson Text",
+  "fontBody": "Montserrat",
+  "borderRadius": "0.5rem",
+  "logoText": "Luminary Flow",
+  "logoImageUrl": null,
+  "tone": "premium"
+}
